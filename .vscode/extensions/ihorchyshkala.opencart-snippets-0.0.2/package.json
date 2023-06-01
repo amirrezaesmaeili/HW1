@@ -1,0 +1,29 @@
+{
+	"name": "opencart-snippets",
+	"displayName": "OpenCart Snippets",
+	"description": "OpenCart Snippets for smarter and faster coding",
+	"version": "0.0.2",
+	"publisher": "IhorChyshkala",
+	"repository": "https://github.com/iMateo/opencart-snippets-vscode",
+	"icon": "icon.png",
+	"engines": {
+		"vscode": "^1.27.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "php",
+				"path": "./snippets/snippets.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "0deb8877-9b68-488c-8f7c-4392521adf8a",
+		"publisherId": "87e83ed1-5e1b-4532-859a-ea8bf922e094",
+		"publisherDisplayName": "Ihor Chyshkala",
+		"installedTimestamp": 1640214359148
+	}
+}
